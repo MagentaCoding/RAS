@@ -1,0 +1,13 @@
+# Message d'avertissement quand /ras est tapé pour la première fois
+warning=Attention ! Tapez /ras à nouveau dans les 5 secondes pour supprimer vraiment tous les tableaux de scores. Liste blanche : {whitelist}
+
+# Suppression réussie
+success=Tous les tableaux de scores (sauf les objectifs de la liste blanche) ont été supprimés avec succès !
+
+# Message d'erreur
+error=Une erreur est survenue.
+
+# Commandes de la liste blanche
+whitelist_add=L'objectif {objective} a été ajouté à la liste blanche.
+whitelist_remove=L'objectif {objective} a été retiré de la liste blanche.
+whitelist_list=Liste blanche actuelle : {whitelist}

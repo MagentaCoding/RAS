@@ -1,0 +1,13 @@
+# Warning message when /ras is typed the first time
+warning=Warning! Type /ras again within 5 seconds to really remove all scoreboards. Whitelist: {whitelist}
+
+# Successfully removed
+success=All scoreboards (except the whitelisted objectives) have been successfully removed!
+
+# Error message
+error=An error occurred.
+
+# Whitelist commands
+whitelist_add=Objective {objective} has been added to the whitelist.
+whitelist_remove=Objective {objective} has been removed from the whitelist.
+whitelist_list=Current whitelist: {whitelist}

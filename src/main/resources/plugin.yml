@@ -1,8 +1,14 @@
-name: [ RAS ] Remove All Scoreboards
-version: 'v0.1'
-main: de.magentaplugins.scoreboardverschwindibust
-api-version: '1.20'
-prefix: MCVTVAS
+name: Remove All Scoreboards
+version: 0.1
+main: de.magentaplugins.ras.ras
+api-version: 1.20
+authors: [MagentaGaming]
+website: https://github.com/MagentaCoding/RAS
+commands:
+  ras:
+    description: Entfernt alle Scoreboards (erneut tippen innerhalb 5 Sekunden zur Bestätigung)
+  raswhitelist:
+    description: Whitelist für Scoreboards bearbeiten (add/remove/list)
+
+database: false
 load: STARTUP
-authors: [ MagentaGaming ]
-website: https://mods.magentaweb.org/magentagamingmods/magentapranks

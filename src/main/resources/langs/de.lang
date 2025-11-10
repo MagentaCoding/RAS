@@ -1,0 +1,13 @@
+# Warnmeldung, wenn man /ras das erste Mal tippt
+warning=Vorsicht! Tippe /ras erneut innerhalb von 5 Sekunden, um wirklich alle Scoreboards zu löschen. Whitelist: {whitelist}
+
+# Erfolgreich gelöscht
+success=Alle Scoreboards (außer den Whitelist-Objectives) wurden endgültig entfernt!
+
+# Fehler beim Command
+error=Ein Fehler ist aufgetreten.
+
+# Whitelist-Commands
+whitelist_add=Objective {objective} wurde zur Whitelist hinzugefügt.
+whitelist_remove=Objective {objective} wurde aus der Whitelist entfernt.
+whitelist_list=Aktuelle Whitelist: {whitelist}

@@ -1,0 +1,13 @@
+# Mensaje de advertencia cuando se escribe /ras por primera vez
+warning=¡Cuidado! Escribe /ras de nuevo en los próximos 5 segundos para eliminar realmente todos los tableros de puntuación. Lista blanca: {whitelist}
+
+# Eliminación exitosa
+success=¡Todos los tableros de puntuación (excepto los objetivos en la lista blanca) se han eliminado correctamente!
+
+# Mensaje de error
+error=Ocurrió un error.
+
+# Comandos de la lista blanca
+whitelist_add=El objetivo {objective} ha sido añadido a la lista blanca.
+whitelist_remove=El objetivo {objective} ha sido eliminado de la lista blanca.
+whitelist_list=Lista blanca actual: {whitelist}
