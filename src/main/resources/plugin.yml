@@ -1,0 +1,8 @@
+name: [ RAS ] Remove All Scoreboards
+version: 'v0.1'
+main: de.magentaplugins.scoreboardverschwindibust
+api-version: '1.20'
+prefix: MCVTVAS
+load: STARTUP
+authors: [ MagentaGaming ]
+website: https://mods.magentaweb.org/magentagamingmods/magentapranks
